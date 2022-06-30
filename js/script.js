@@ -1,6 +1,3 @@
 "use strict";
 
-let incr = 10;
-
-console.log(--incr);
-console.log(incr);
+const numberOfFilmes = +prompt('Сколько фильмов вы уже посмотрели?', "1")
